@@ -1,2 +1,2 @@
 # BoostCamp P stage 1
-##-Mask Image Classification
+## -Mask Image Classification
