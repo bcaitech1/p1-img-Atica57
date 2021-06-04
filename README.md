@@ -9,7 +9,7 @@
 
 * 아래의 그림은 18가지 클래스 분류 기준을 나타낸 그림임
 
-  ![img](https://github.com/Atica57/p1-img-Atica57/issues/1#issue-910967507)
+  ![img](https://user-images.githubusercontent.com/43458619/120729423-12ca4700-c51a-11eb-8ba7-c2fd65eee0b7.PNG)
 
 
 
