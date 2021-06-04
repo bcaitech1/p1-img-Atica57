@@ -9,7 +9,7 @@
 
 * 아래의 그림은 18가지 클래스 분류 기준을 나타낸 그림임
 
-  ![img](C:\Users\TGJ\Desktop\BoostCamp_AI\P_stage\1_stage\classes.png)
+  ![img](https://github.com/Atica57/p1-img-Atica57/issues/1#issue-910967507)
 
 
 
@@ -19,7 +19,7 @@
 
 > * [dataset.py](#dataset.py)
 >   * 마스크 데이터셋을 읽고 전처리를 진행한 후 데이터를 하나씩 꺼내주는 Dataset 클래스를 구현한 파일
-> * [submission.ipynb](submission.ipynb)
+> * [train_inference_integrated.ipynb](#train_inference_integrated.ipynb)
 >   * data set 설정, 모델 정의, train 및 test를 진행하는 주피터 노트북 코드
 
 
@@ -41,7 +41,7 @@
 
 
 
-#### submission.ipynb
+#### train_inference_integrated.ipynb
 
 1. Libarary 불러오기 및 경로설정
 2. Parameter 설정
